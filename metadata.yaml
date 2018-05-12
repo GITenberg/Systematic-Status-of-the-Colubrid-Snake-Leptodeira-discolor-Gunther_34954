@@ -1,0 +1,29 @@
+_repo: Systematic-Status-of-the-Colubrid-Snake-Leptodeira-discolor-Gunther_34954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2011-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Snakes -- Mexico'
+- !lcc 'QH'
+title: Systematic Status of the Colubrid Snake, Leptodeira discolor Günther
+url: http://www.gutenberg.org/ebooks/34954
